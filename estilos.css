@@ -1,0 +1,79 @@
+a
+{
+	color: #22BCE0;
+
+}
+body
+{
+	background: #EEEEEE;
+	font-family: Arial;
+	font-size: 16px;
+}
+header
+{
+	position: relative;
+	background: #343B54;
+	color: white;
+	padding: 0.5em;
+	overflow: 0.5em;
+}
+
+header figure
+{
+	float: left;
+}
+header h1
+{
+	font-size: 1.2em;
+	font-weight: normal;
+	margin: 0 2em 70px 0;
+}
+
+header #avatar img 
+{
+	margin: 0.5em 0.5em 0 0 ;
+	position: absolute;
+	right: 0;
+	top: 0;
+
+}
+
+header #avatar img 
+{
+	border-radius: 50%;
+	width: 55px;
+}
+header #logo img 
+{
+	border-right: 1px solid white;
+	margin-right: 0.5em;
+	padding-right: 0.5em;
+	width: 52px;
+}
+nav
+{
+	background: #80BCA3;
+	padding: 0 05em;
+}
+
+nav ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li 
+{
+	display: inline-block;
+	margin: 0 1em 0 0;
+}
+
+nav ul li a 
+{
+	background: red;
+	color : white;
+	display: : block;
+	padding: 0.5em 0
+}
+
